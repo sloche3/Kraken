@@ -67,7 +67,6 @@ seconds2 = str(seconds2)
 #Hashes the total seconds
 md51 = hash(seconds2)
 md52 = hash(md51)
-print md52
 
 #Creates code
 code = ""
